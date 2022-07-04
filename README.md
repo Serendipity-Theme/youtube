@@ -1,20 +1,17 @@
 ![Midnight](https://raw.githubusercontent.com/Serendipity-Theme/assets/main/githubHeader.png)
 
-# Serendipity for [Platform]
+# Serendipity for Youtube
 
 
 # Installation
 
-1. Open **X**.
-2. Search for **X**
-3. Click **X** to do **X**
+1. Install Stylus extension on your browser. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/)
+2. Navigate to [User Styles](https://userstyles.world/style/5478/serendipity-theme.)
+3. Click install style.
 
-# Screenshots Under this heading
-![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/vs-code/master/sunset.png)
+# SerendipityYoutube
+![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/youtube/master/serendipityHome.png)
 
-# Who ported the theme?
+#
 
-# Standard formatting
-- Add the same header on the repo
-- Call the repo as the app you are porting for.
-
+Serendipity Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza) and ported by Mike.
