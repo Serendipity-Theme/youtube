@@ -1,12 +1,12 @@
 /* ==UserStyle==
 @name Serendipity
-@namespace https://github.com/michael-andreuzza/youtube
-@homepageURL https://github.com/michael-andreuzza/youtube
+@namespace github.com/Serendipity-Theme/youtube
+@homepageURL github.com/Serendipity-Theme/youtube
 @version 0.1
 @updateURL #
 @description Elegant, minimal, and clean color palette to give your eyes rest on different interfaces.
 @author michael-andreuzza
-@license MIT
+@license GNU-V3.0
 
 @preprocessor stylus
 
@@ -16,7 +16,7 @@
 	"Morning",
 ]
 
-@var select mainColorDark "Custom Dark accent color" [
+@var select mainColorDark "Choose Dark accent color" [
 	"Violet",
 	"Sky",
 	"Mint",
@@ -25,7 +25,7 @@
 	"coral",
 ]
 
-@var select mainColorDawn "Custom Dawn accent color" [
+@var select mainColorDawn "Choose Serendipity accent color" [
 	"Violet",
 	"Sky",
 	"Mint",
