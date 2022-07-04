@@ -51,11 +51,11 @@
 	:root
 	{
 		if stylus-deepdark-style == "Midnight" {
-			if mainColorDark == "Violet" {
-				--main-color: #A78BFA;
-			}
-			else if mainColorDark == "Sky" {
+			if mainColorDark == "Sky" {
 				--main-color: #94B8FF;
+			}
+			else if mainColorDark == "Violet" {
+				--main-color: #A78BFA;
 			}
 			else if mainColorDark == "Mint" {
 				--main-color: #9CCFD8;
@@ -77,11 +77,11 @@
 			--shadow: 0 1px 0.5px rgb(0, 0, 0, .13)
 		}
 		else if stylus-deepdark-style == "Sunset" {
-			if mainColorDark == "Violet" {
-				--main-color: #A392DC;
-			}
-			else if mainColorDark == "Sky" {
+			if mainColorDark == "Sky" {
 				--main-color: #A0B6E8;
+			}
+			else if mainColorDark == "Violet" {
+				--main-color: #A392DC;
 			}
 			else if mainColorDark == "Mint" {
 				--main-color: #AAC9D4;
@@ -103,11 +103,11 @@
 			--shadow: 0 1px 0.5px rgba(0, 0, 0, .13)
 		}
 		else if stylus-deepdark-style == "Morning" {
-			if mainColorDawn == "Violet" {
-				--main-color: #886CDB;
-			}
-			else if mainColorDawn == "Sky" {
+			if mainColorDawn == "Sky" {
 				--main-color: #7397DE;
+			}
+			else if mainColorDawn == "Violet" {
+				--main-color: #886CDB;
 			}
 			else if mainColorDawn == "Mint" {
 				--main-color: #77AAB3;
