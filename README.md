@@ -9,7 +9,7 @@
 2. Navigate to [User Styles](https://userstyles.world/style/5478/serendipity-theme.)
 3. Click install style.
 
-# SerendipityYoutube
+# Screenshot
 ![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/youtube/master/serendipityHome.png)
 
 #
